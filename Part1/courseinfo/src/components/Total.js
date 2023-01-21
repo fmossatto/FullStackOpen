@@ -1,9 +1,10 @@
 import React from 'react';
 
 const Total = (props) => {
-  return (
-    <p>Number of exercises {props.total}</p>
-  )
-}
+    let exercisesNumber = 0;
+    props.parts.parts.forEach((ex) => (exercisesNumber += ex.exercises));
+
+    return <p>Number of exercises {exercisesNumber}</p>;
+};
 
 export default Total;
