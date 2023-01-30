@@ -8,4 +8,4 @@ This repository is intended to host the exercises of the FullStackOpen Course.
 	* [anecdote](https://github.com/fmossatto/FullStackOpen/tree/main/Part1/anecdote)
 * [Part 2](https://github.com/fmossatto/FullStackOpen/tree/main/Part2)
 	* [courseinfo](https://github.com/fmossatto/FullStackOpen/tree/main/Part2/courseinfo)
-	* [courseinfo](https://github.com/fmossatto/FullStackOpen/tree/main/Part2/phonebook)
+	* [phonebook](https://github.com/fmossatto/FullStackOpen/tree/main/Part2/phonebook)
