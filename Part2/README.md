@@ -2,3 +2,6 @@
 #### courseInfo
 exercises 2.1 - 2.5
 [Go to Page](https://github.com/fmossatto/FullStackOpen/tree/main/Part2/courseinfo)
+#### phonebook
+exercises 2.6 - 2.10
+[Go to Page](https://github.com/fmossatto/FullStackOpen/tree/main/Part2/phonebook)
