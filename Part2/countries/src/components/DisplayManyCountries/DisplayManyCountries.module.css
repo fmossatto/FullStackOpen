@@ -1,0 +1,18 @@
+.display div {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.display div p {
+    font-size: 1rem;
+}
+
+.display div button {
+    border: none;
+    background-color: blue;
+    color: white;
+    padding: 0.25rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+}
