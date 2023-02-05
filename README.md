@@ -10,3 +10,7 @@ This repository is intended to host the exercises of the FullStackOpen Course.
 	* [courseinfo](https://github.com/fmossatto/FullStackOpen/tree/main/Part2/courseinfo)
 	* [phonebook](https://github.com/fmossatto/FullStackOpen/tree/main/Part2/phonebook)
 	* [countries](https://github.com/fmossatto/FullStackOpen/tree/main/Part2/countries)
+* [Part 3](https://github.com/fmossatto/FullStackOpen-Part3)
+	* [API phonebook](https://github.com/fmossatto/FullStackOpen-Part3)
+
+	
